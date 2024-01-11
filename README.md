@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me discord or steam
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am re learning lua
+- ⚡ Fun fact: I am learning lua
 
 <!---
 WelshLadAshton/WelshLadAshton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
