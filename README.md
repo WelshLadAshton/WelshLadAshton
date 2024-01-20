@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @WelshLadAshton
 - 👀 I’m interested in programming and games 
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me discord or steam
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am learning lua
+- ⚡ Fun fact: I am a Farmer 
 
 <!---
 WelshLadAshton/WelshLadAshton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
